@@ -1,0 +1,27 @@
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\bin\Debug\Galaxy_ace.exe.config
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\bin\Debug\Galaxy_ace.exe
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\bin\Debug\Galaxy_ace.pdb
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\obj\Debug\Galaxy_ace.csprojResolveAssemblyReference.cache
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\obj\Debug\Galaxy_ace.Properties.Resources.resources
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\obj\Debug\Galaxy_ace.csproj.GenerateResource.Cache
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\obj\Debug\Galaxy_ace.exe
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\obj\Debug\Galaxy_ace.pdb
+C:\Users\Anni\Desktop\Galaxy_ace\Galaxy_ace\obj\Debug\Galaxy_ace.SpaceForm.resources
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\bin\Debug\Galaxy_ace.exe.config
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\obj\Debug\Galaxy_ace.exe
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\obj\Debug\Galaxy_ace.pdb
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\bin\Debug\Galaxy_ace.exe
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\bin\Debug\Galaxy_ace.pdb
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\obj\Debug\Galaxy_ace.csprojResolveAssemblyReference.cache
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\obj\Debug\Galaxy_ace.SpaceForm.resources
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\obj\Debug\Galaxy_ace.Properties.Resources.resources
+C:\Users\Anni\Desktop\Galaxy_ace - Copy (5)\Galaxy_ace\obj\Debug\Galaxy_ace.csproj.GenerateResource.Cache
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\bin\Debug\Galaxy_ace.exe.config
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\bin\Debug\Galaxy_ace.exe
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\bin\Debug\Galaxy_ace.pdb
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\obj\Debug\Galaxy_ace.SpaceForm.resources
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\obj\Debug\Galaxy_ace.Properties.Resources.resources
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\obj\Debug\Galaxy_ace.csproj.GenerateResource.Cache
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\obj\Debug\Galaxy_ace.exe
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\obj\Debug\Galaxy_ace.pdb
+C:\Users\Anni\Desktop\Galaxy_ace_last_try\Galaxy_ace\obj\Debug\Galaxy_ace.csprojResolveAssemblyReference.cache
